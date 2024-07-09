@@ -1,0 +1,13 @@
+#root {
+    width: 100%;
+    margin: 0 auto;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.title {
+    color: blue;
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
